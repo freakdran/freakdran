@@ -2,7 +2,6 @@ You found my Git, congrats or my deepest sympathy it depends what you were looki
 
 Hi, I’m @freakdran
 - 👀 I’m interested mainly in frontend development with Vue, Angular, React
-- 🌱 I’m currently learning everything backend related
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me "cat@freakdran.com" or Discord "freakdran#1337"
 
