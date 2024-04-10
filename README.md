@@ -1,4 +1,4 @@
-You found my Git, congrats or my deepest sympathy it depends what you were looking for
+You found my Git, congrats or my pity, depending what you were looking for
 
 Hi, I’m @freakdran
 - 👀 I’m interested mainly in frontend development with Vue
